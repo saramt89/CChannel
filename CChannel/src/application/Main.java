@@ -15,6 +15,13 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
+/**
+ * Aplicación que muestra una ventana con dos botones(die,live).
+ * Al hacer click en live se abre otra ventana con una imagen.
+ * Al hacer click en die se cierra la aplicación.
+ * @author Sara
+ * @see Controlador
+ */
 
 public class Main extends Application {
 	
