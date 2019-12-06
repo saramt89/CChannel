@@ -22,7 +22,6 @@ import javafx.stage.Stage;
  * @author Sara
  * @see Controlador
  */
-
 public class Main extends Application {
 	
 	private AnchorPane ap_principal;
